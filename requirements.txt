@@ -1,0 +1,4 @@
+flask
+dask[dataframe]
+sqlalchemy
+psycopg2-binary
